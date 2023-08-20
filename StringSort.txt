@@ -1,0 +1,10 @@
+import java.util.arrays;
+import java.util.scanner;
+public class StringSort{
+public static void main(string[]args)[
+int count=0;
+String tmp;
+Scanner scan=new Scanner(System.in);
+System.out.println("enter_number_of_strings_to_sort:_");
+count=scan.nextInt();
+String str
